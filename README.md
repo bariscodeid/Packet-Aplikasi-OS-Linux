@@ -32,7 +32,9 @@ mcreator@indonesia:~$ sudo apt apt -y install macbuntu-os-plank-theme-lts-v7
 
 ```
 - Web Browser Google Chrome
-Link: https://www.google.com/intl/id_ALL/chrome/
+```php
+Link Download: <a href="https://www.google.com/intl/id_ALL/chrome/">Disini</a>
+```
 - WPS Office
 - Screenshot
 - Peek (For convert to Gif)
