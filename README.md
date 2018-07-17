@@ -30,10 +30,10 @@ mcreator@indonesia:~$ sudo add-apt-repository ppa:noobslab/macbuntu
 mcreator@indonesia:~$ sudo apt -y update
 mcreator@indonesia:~$ sudo apt -y install macbuntu-os-icons-lts-v7 macbuntu-os-ithemes-lts-v7
 # Albert Launcher
-mcreator@indonesia:~$ sudo apt apt -y install install albert
+mcreator@indonesia:~$ sudo apt -y install install albert
 # Plank Docked
-mcreator@indonesia:~$ sudo apt apt -y install plank
-mcreator@indonesia:~$ sudo apt apt -y install macbuntu-os-plank-theme-lts-v7
+mcreator@indonesia:~$ sudo apt -y install plank
+mcreator@indonesia:~$ sudo apt -y install macbuntu-os-plank-theme-lts-v7
 
 ```
 - Web Browser Google Chrome https://www.google.com/intl/id_ALL/chrome/"
