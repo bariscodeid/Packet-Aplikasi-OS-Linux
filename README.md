@@ -59,3 +59,9 @@ mcreator@indonesia:~$ sudo apt -y install unrar unzip
 ```bash
 mcreator@indonesia:~$ sudo apt -y install git
 ```
+- Telegram Desktop
+```bash
+mcreator@indonesia:~$ sudo add-apt-repository ppa:atareao/telegram
+mcreator@indonesia:~$ sudo apt -y update
+mcreator@indonesia:~$ sudo apt -y install telegram
+```
