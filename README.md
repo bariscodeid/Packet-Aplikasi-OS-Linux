@@ -32,9 +32,13 @@ mcreator@indonesia:~$ sudo apt apt -y install macbuntu-os-plank-theme-lts-v7
 
 ```
 - Web Browser Google Chrome https://www.google.com/intl/id_ALL/chrome/"
-- WPS Office
+- WPS Office http://wps-community.org/downloads
 - Screenshot
-- Peek (For convert to Gif)
+- Peek (For convert to Gif) 
+```bash
+mcreator@indonesia:~$ sudo add-apt-repository ppa:peek-developers/stable
+mcreator@indonesia:~$ sudo apt apt -y update && sudo apt -y install peek
+```
 - Printer
 - Audacious
 - MPV
