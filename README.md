@@ -3,17 +3,17 @@ Packet Ubuntu 16.04 LTS Tools Packets
 
 ### Aplikasi Development:
 Aplikasi terkait aplikasi untuk kebutuhan mendevelop seperti mobile apps, website dan lain sebagainya
-- Android Studio IDE, Java, Paket Kebutuhan Tools Pelengkap Dev Mobile Apps
-- GitKraken IDE
-- VirtualBox
-- Intellij IDEA for Java IDE
-- Vysor
-- VStudio
-- Postman Desktop
-- Draw.io for Desktop
-- PopSQL
-- DB Browser for SQLite
-- LAMP Server
+- Android Studio IDE, Java, Paket Kebutuhan Tools Pelengkap Dev Mobile Apps https://developer.android.com/studio/
+- GitKraken IDE https://www.gitkraken.com/download
+- VirtualBox https://www.virtualbox.org/wiki/Downloads
+- Intellij IDEA for Java IDE https://www.jetbrains.com/idea/download/#section=linux
+- Vysor https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm?utm_source=chrome-app-launcher-info-dialog
+- VStudio https://www.valentina-db.com/en/get-free-valentina-studio
+- Postman Desktop https://www.getpostman.com/apps
+- Draw.io for Desktop https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla?hl=en-GB
+- PopSQL https://popsql.io/
+- DB Browser for SQLite https://sqlitebrowser.org/
+- LAMP Server https://github.com/septiyadii/Course-of-Website/wiki/Materi-K:-Membangun-Web-Server-di-VM-Ubuntu-Server-16.04.03-LTS
 
 ### Tools Desktop
 - Unity Tweak Tools (Theme & Icon like Mac OS for Ubuntu 16.04.04 LTS)
@@ -33,7 +33,6 @@ mcreator@indonesia:~$ sudo apt apt -y install macbuntu-os-plank-theme-lts-v7
 ```
 - Web Browser Google Chrome https://www.google.com/intl/id_ALL/chrome/"
 - WPS Office http://wps-community.org/downloads
-- Screenshot
 - Peek (For convert to Gif) 
 ```bash
 mcreator@indonesia:~$ sudo add-apt-repository ppa:peek-developers/stable
@@ -46,4 +45,3 @@ mcreator@indonesia:~$ sudo apt apt -y update && sudo apt -y install peek
 - MarkDown Editor
 - Unrar & Unzip
 - Git
-- 
