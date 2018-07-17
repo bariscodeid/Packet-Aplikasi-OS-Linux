@@ -17,18 +17,22 @@ Aplikasi terkait aplikasi untuk kebutuhan mendevelop seperti mobile apps, websit
 
 ### Tools Desktop
 - Unity Tweak Tools (Theme & Icon like Mac OS for Ubuntu 16.04.04 LTS)
-```shell
+```bash
 # Theme Manger
 mcreator@indonesia:~$ sudo apt -y install unity-tweak-tool
 # Ubuntu Theme & Icon like Mac OS
 mcreator@indonesia:~$ sudo add-apt-repository ppa:noobslab/macbuntu
 mcreator@indonesia:~$ sudo apt -y update
 mcreator@indonesia:~$ sudo apt -y install macbuntu-os-icons-lts-v7 && macbuntu-os-ithemes-lts-v7
-# Ubuntu Launcher
+# Albert Launcher
 mcreator@indonesia:~$ sudo apt apt -y install install albert
-mcreator@indonesia:~$ 
+# Plank Docked
+mcreator@indonesia:~$ sudo apt apt -y install plank
+mcreator@indonesia:~$ sudo apt apt -y install macbuntu-os-plank-theme-lts-v7
+
 ```
 - Web Browser Google Chrome
+Link: https://www.google.com/intl/id_ALL/chrome/
 - WPS Office
 - Screenshot
 - Peek (For convert to Gif)
