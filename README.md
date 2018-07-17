@@ -1,4 +1,4 @@
-# Paket Installasi Software for Linux Ubuntu 16.04.06 LTS Sweet
+# Paket Installasi Software for Linux Ubuntu 16.04.06 LTS
 Packet Ubuntu 16.04 LTS Tools Packets
 
 ### Aplikasi Development:
