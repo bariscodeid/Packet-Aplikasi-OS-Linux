@@ -65,3 +65,9 @@ mcreator@indonesia:~$ sudo add-apt-repository ppa:atareao/telegram
 mcreator@indonesia:~$ sudo apt -y update
 mcreator@indonesia:~$ sudo apt -y install telegram
 ```
+- Simplescreen Recorder
+```bash
+mcreator@indonesia:~$ sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
+mcreator@indonesia:~$ sudo apt-get update
+mcreator@indonesia:~$ sudo apt-get install simplescreenrecorder
+```
