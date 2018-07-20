@@ -76,8 +76,5 @@ mcreator@indonesia:~$ sudo add-apt-repository ppa:maarten-baert/simplescreenreco
 mcreator@indonesia:~$ sudo apt-get update
 mcreator@indonesia:~$ sudo apt-get install simplescreenrecorder
 ```
-
-- Typing Test
-```bash
-https://chrome.google.com/webstore/detail/typing-test/badmljhachfobngipeladdganhdgomhp
-```
+- Typing Test https://chrome.google.com/webstore/detail/typing-test/badmljhachfobngipeladdganhdgomhp
+- Valentina Studio IDE https://www.valentina-db.com/en/studio/download/current
