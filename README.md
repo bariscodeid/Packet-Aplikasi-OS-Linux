@@ -77,9 +77,9 @@ mcreator@indonesia:~$ sudo apt-get update
 mcreator@indonesia:~$ sudo apt-get install simplescreenrecorder
 ```
 - Typing Test https://chrome.google.com/webstore/detail/typing-test/badmljhachfobngipeladdganhdgomhp
-- Valentina Studio IDE https://www.valentina-db.com/en/studio/download/current <br>
+- Valentina Studio IDE https://www.valentina-db.com/en/studio/download/current <br><br>
 <img src="https://github.com/koderspeach/Packet-OS-Linux/blob/a4714000f578f423489640b600b55f17209b31b1/1.png"/>
-```bash
+```shell
 # Serial Key
 VS-L-DWF2NA2Q61TMWFK9-7EVLSA286MPYRPG8-V82EZKYTSD4FVPGQ-VNF2NA2Q61TMXW93
 ```
