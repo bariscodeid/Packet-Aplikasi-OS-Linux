@@ -76,3 +76,8 @@ mcreator@indonesia:~$ sudo add-apt-repository ppa:maarten-baert/simplescreenreco
 mcreator@indonesia:~$ sudo apt-get update
 mcreator@indonesia:~$ sudo apt-get install simplescreenrecorder
 ```
+
+- Typing Test
+```bash
+https://chrome.google.com/webstore/detail/typing-test/badmljhachfobngipeladdganhdgomhp
+```
