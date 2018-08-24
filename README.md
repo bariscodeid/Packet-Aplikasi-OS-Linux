@@ -84,3 +84,11 @@ mcreator@indonesia:~$ sudo apt-get install simplescreenrecorder
 VS-L-DWF2NA2Q61TMWFK9-7EVLSA286MPYRPG8-V82EZKYTSD4FVPGQ-VNF2NA2Q61TMXW93
 ```
 - Plugin Sourcecode Viewer for Posting in Wordpress https://wordpress.org/plugins/enlighter/
+
+- Install Sublime Text
+```bash
+mcreator@indonesia:~$ wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+mcreator@indonesia:~$ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+mcreator@indonesia:~$ sudo apt-get update
+mcreator@indonesia:~$ sudo apt-get install sublime-text
+```
