@@ -122,7 +122,7 @@ sudo apt-get update
 sudo apt-get install insomnia
 ```
 
--Gravit Designer
+- Gravit Designer
 
 ```
 bariscode@indonesia:~/Downloads$ sudo snap install gravit-designer
