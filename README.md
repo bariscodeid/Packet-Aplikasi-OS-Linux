@@ -121,3 +121,21 @@ wget --quiet -O - https://insomnia.rest/keys/debian-public.key.asc \
 sudo apt-get update
 sudo apt-get install insomnia
 ```
+
+-Gravit Designer
+
+```
+bariscode@indonesia:~/Downloads$ sudo snap install gravit-designer
+```
+
+- Zenkit Plan
+
+```
+bariscode@indonesia:~/Downloads$ sudo snap install zenkit
+```
+
+- Termius Apps
+
+```
+bariscode@indonesia:~/Downloads$ sudo snap install termius-app
+```
