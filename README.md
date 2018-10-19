@@ -9,6 +9,7 @@ mcreator@indonesia:~$ sudo apt -y install default-jdk
 mcreator@indonesia:~$ sudo apt -y install libc6:i386 libncurses5:i386 
 mcreator@indonesia:~$ sudo apt -y install libstdc++6:i386 lib32z1 libbz2-1.0:i386
 ```
+- http://guides.beanstalkapp.com/version-control/git-on-linux.html
 - GitKraken IDE https://www.gitkraken.com/download
 - VirtualBox https://www.virtualbox.org/wiki/Downloads
 - Intellij IDEA for Java IDE https://www.jetbrains.com/idea/download/#section=linux
